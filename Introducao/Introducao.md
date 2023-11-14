@@ -11,3 +11,8 @@ HDFS: Sistemas de Arquivos Distribuidos.
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
 ![Alt text](image-4.png)
+![Alt text](image-5.png)
+![Alt text](image-6.png)
+
+Aula 4
+![Alt text](image-7.png)
